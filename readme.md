@@ -17,10 +17,6 @@ The following **optional** features are implemented:
 
 - [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-- [X] List anything else that you can get done to improve the app functionality!
-
 
 Here's a walkthrough of implemented user stories:
 
